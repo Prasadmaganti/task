@@ -1,1 +1,1 @@
-This is a random text file
+"Hello, this is a random text file." 
